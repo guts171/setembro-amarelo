@@ -25,3 +25,27 @@ main {
 button {
   background: #f39c12;
   color: white;
+  border: none;
+  padding: 15px 25px;
+  border-radius: 10px;
+  font-size: 1em;
+  cursor: pointer;
+  trasition: 0.3s
+}
+
+button:hover {
+  background: #e67e22;
+}
+
+#mensagem {
+  margin-top: 15px;
+  font-style: italic;
+  color: #444;
+  font-size: 1.2em;
+}
+
+  footer {
+    background: #f4d03f;
+    padding: 10px;
+    margin-top: 30px
+  }      
