@@ -3,7 +3,7 @@ const mensagens = [
   "Nunca se esqueça: sua vida importa 🌻",
   "Você não está sozinho, estamos juntos 🤝",
   "Acredite: dias melhores virão ☀️",
-  "Sempre existe esperança 🌈",
+  "Sempre existe esperança 🌈"
   ];
 
 document.getElementById("btnMensagem").addEventListener("click", () => {
