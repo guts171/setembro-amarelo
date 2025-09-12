@@ -8,5 +8,5 @@ const mensagens = [
 
 document.getElementById("btnMensagem").addEventListener("click", () => {
   const aleatoria = mensagens[Math.floor(Math.random() * mensagens.length)];
-  document.getElementytById("mensagem").innerText = aleatoria;
+  document.getElementById("mensagem").innerText = aleatoria;
 });
